@@ -233,3 +233,7 @@ $$
 
 
 For more check this linl: [Math Jax](http://docs.mathjax.org/en/latest/basic/mathjax.html)
+
+
+
+we are in git 101
